@@ -15,11 +15,12 @@
 - 📫 How to reach me **naim.lehbiben@gmail.com**
 
 
+
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=NaimLehbiben&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
   <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=NaimLehbiben&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 </a>
-  <img height="48%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=NaimLehbiben&layout=compact&hide_border=true&langs_count=6&hide=tex,css,php,html">
+  <img height="48%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=NaimLehbiben&layout=compact&hide_border=true&langs_count=6&hide=css,php,html">
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=NaimLehbiben&hide_border=true">
   <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=NaimLehbiben&hide_border=true" />
 </a>
