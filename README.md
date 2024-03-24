@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **Programming, Quantitative finance & Trading ...**. (I'm always glad to learn new things)
 
+- 📄 Know about my experiences [**Resume here**](https://github.com/NaimLehbiben/NaimLehbiben/raw/main/CV_LEHBIBEN.pdf)
+
 - 📫 How to reach me **naim.lehbiben@gmail.com**
 
 
