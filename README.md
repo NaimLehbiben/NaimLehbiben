@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naïm Lehbiben </h1>
 
-<h3 align="center">✨ Portfolio Management | Quantitative Research | Trading✨</h3>
+<h3 align="center">✨ Quantitative Finance | Trading✨</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/lehbiben/" target="blank"><img align="center" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" alt="NaimLehbiben" height="30" width="40" /></a>
