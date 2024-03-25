@@ -6,8 +6,6 @@
 <a href="https://www.linkedin.com/in/lehbiben/" target="blank"><img align="center" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" alt="NaimLehbiben" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on Medium articles to share content about **Quantitative Finance**
-
 - 🌱 I’m currently studying Quantitative finance at **Paris-Dauphine University**
 
 - 💬 Ask me about **Programming, Quantitative finance & Trading ...**. (I'm always glad to learn new things)
