@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naïm Lehbiben </h1>
+<h1 align="center">Hi 👋, I'm Naïm Lehbiben </h1> 
 
 <h3 align="center">✨ Quantitative Finance | Trading✨</h3>
 
