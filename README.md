@@ -3,8 +3,12 @@
 <h3 align="center">✨ Quantitative Finance | Trading✨</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lehbiben/" target="blank"><img align="center" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" alt="NaimLehbiben" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/lehbiben/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="30" />
+  </a>
 </p>
+
+
 
 - 🌱 I’m currently studying Quantitative finance at **Paris-Dauphine University**
 
