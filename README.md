@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [**Resume here**](https://github.com/NaimLehbiben/NaimLehbiben/raw/main/CV_LEHBIBEN.pdf)
 
-- 📫 How to reach me **naim.lehbiben@gmail.com**
+- 📫 How to reach me **naim.lehbiben@dauphine.eu**
 
 
 
