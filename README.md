@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently studying Quantitative finance at **Paris-Dauphine University**
+- 🌱 I’m graduated from Quantitative finance at **Paris-Dauphine University**
 
 - 💬 Ask me about **Programming, Quantitative finance & Trading ...**. (I'm always glad to learn new things)
 
